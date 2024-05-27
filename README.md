@@ -2,3 +2,5 @@
 ```bash
 python manage.py loaddata news.json
 ```
+
+Практика в написании тестов pytest
